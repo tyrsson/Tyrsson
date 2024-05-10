@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+If you are clicking the follow button just so I will follow you back so you can unfollow me a couple days later. Do NOT bother. About once a week I check and remove all that do this.
 <!--
 **Tyrsson/Tyrsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
