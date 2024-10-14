@@ -3,6 +3,9 @@
 🔭 I’m currently working on ...
 - Improving learning materials around the Mezzio framework ecosystem.
 - Expanding the number of useful packages that can be consumed by Mezzio framework.
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tyrsson&show_icons=true&theme=dark" alt="GitHub Activity">
+</div>
 <!--
 **Tyrsson/Tyrsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
