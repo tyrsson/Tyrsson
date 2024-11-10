@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tyrsson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Activity">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tyrsson&theme=dark&hide_border=false&hide_total_contributions=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=tyrsson&theme=dark&hide_total_contributions=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=tyrsson&theme=matrix&no-frame=true&no-bg=true&margin-w=4)<br/>
 ![](https://visitcount.itsvg.in/api?id=tyrsson&label=Profile%20Views&color=3&icon=0&pretty=true)
 
