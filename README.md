@@ -6,6 +6,11 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tyrsson&show_icons=true&theme=dark" alt="GitHub Activity">
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tyrsson&theme=dark)](https://git.io/streak-stats)
+
+![](https://github-profile-trophy.vercel.app/?username=tyrsson&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+
 <!--
 **Tyrsson/Tyrsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
