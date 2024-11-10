@@ -7,10 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tyrsson&show_icons=true&theme=dark" alt="GitHub Activity">
 </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tyrsson&theme=dark" alt="GitHub Streak" />
-</div>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=tyrsson&theme=dark&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=tyrsson&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 <!--
