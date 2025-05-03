@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-- Improving learning materials around the Mezzio framework ecosystem.
+- A fork of laminas-db so the component can continue to be used by the laminas/mezzio ecosystem.
+- Axleus component library. Built on/for laminas/mezzio.
 - Expanding the number of useful packages that can be consumed by Mezzio framework.
 
 <img src="https://github-readme-stats.vercel.app/api?username=tyrsson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Activity">
