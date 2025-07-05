@@ -9,7 +9,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=tyrsson&theme=dark&hide_total_contributions=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=tyrsson&theme=matrix&no-frame=true&no-bg=true&margin-w=4)<br/>
-![](https://visitcount.itsvg.in/api?id=tyrsson&label=Profile%20Views&color=3&icon=0&pretty=true)
 
 <!--
 **Tyrsson/Tyrsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
