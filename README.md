@@ -7,8 +7,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tyrsson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Activity">
 
-![](https://github-readme-streak-stats.herokuapp.com?user=tyrsson&theme=dark&hide_total_contributions=true)<br/>
-
 <!--
 **Tyrsson/Tyrsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
